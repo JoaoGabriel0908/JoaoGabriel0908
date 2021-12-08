@@ -1,5 +1,7 @@
+## 👋 Olá, meu nome é <strong>João Gabriel!</strong>
+
 <p align="left"> 
-  ❤️ Olá, meu nome é <strong> João Gabriel </strong>. Estou Desenvolvendo minhas habilidades <strong> Front-End</strong> e <strong> Back-End</strong> no <a href="https://jandira.sp.senai.br/">SENAI Jandira</a>.
+  ❤️ Estou Desenvolvendo minhas habilidades <strong> Front-End</strong> e <strong> Back-End</strong> no <a href="https://jandira.sp.senai.br/">SENAI Jandira</a>.
 </p>
 
 <p align="left">
@@ -10,16 +12,18 @@
   💼 Ferramentas: <strong>VSCode, Figma, Eclipse, Git e GitHub.</strong>
 </p>
   
+  ## ⭐ Minhas atividades no GitHub
+  
   <div
   <a href="https://github.com/JoaoGabriel0908">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabriel0908&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel0908&layout=compact&langs_count=7&theme=dracula"/>>
 </div>
 
-##
-<p align="left">
-  📱 Entre em contato comigo pelas redes sociais.
-  </p>
+
+ 
+## 📱 Entre em contato comigo pelas redes sociais.
+ 
 
 <p align="left">
   <a href="https://www.instagram.com/joaoflor0/" alt="Instagram">
