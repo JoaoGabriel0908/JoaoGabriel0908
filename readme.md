@@ -1,5 +1,5 @@
 <p align="left"> 
-  ❤️ Olá, meu nome é <strong> João Gabriel </strong>. Estou Desenvolvendo minhas habilidades em <strong> Front-End</strong> e <strong> Back-End</strong>.
+  ❤️ Olá, meu nome é <strong> João Gabriel </strong>. Estou Desenvolvendo minhas habilidades <strong> Front-End</strong> e <strong> Back-End</strong> no <a href="https://jandira.sp.senai.br/">SENAI Jandira</a>.
 </p>
 
 <p align="left">
