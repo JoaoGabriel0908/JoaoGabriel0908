@@ -22,7 +22,7 @@
   </a>
    <a href = "joaogabrielc700@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
    </a>
-  <a href="www.linkedin.com/in/joão-gabriel0908" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel0908/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=www.linkedin.com/in/joão-gabriel0908"/>
   </a>
   
