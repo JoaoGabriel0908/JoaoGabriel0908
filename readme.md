@@ -1,5 +1,5 @@
 <p align="left"> 
-  ❤️ Olá, meu nome é João Gabriel. Estou Desenvolvendo minhas habilidades em <strong> Front-End</strong> e <strong> Back-End</strong>.
+  ❤️ Olá, meu nome é <strong> João Gabriel </strong>. Estou Desenvolvendo minhas habilidades em <strong> Front-End</strong> e <strong> Back-End</strong>.
 </p>
 
 <p align="left">
