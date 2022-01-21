@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🕹️ Aprendendo: <strong>HTML, CSS, JavaScript, ReactJS, Java e Phyton.</strong>
+  🕹️ Aprendendo: <strong>HTML, CSS, JavaScript, ReactJS, PHP, Java e Phyton.</strong>
 </p>
 
 <p align="left">
